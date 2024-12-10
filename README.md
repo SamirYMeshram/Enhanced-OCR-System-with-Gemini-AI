@@ -163,7 +163,7 @@ Edit the `image_path` variable in the script to point to your image file.
 ---
 
 ## **Screenshots**  
-*Add screenshots of the GUI, bounding box annotations, and the text display here.*  
+![IMG-20241209-WA0003](https://github.com/user-attachments/assets/1df52cba-edb9-4839-be5c-b367f09758a7)
 
 ---
 
